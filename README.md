@@ -255,7 +255,7 @@ Ejemplo de ejecución:
 
 Dibujar una de las siguientes formas, según la elección del usuario:
 
-Images/04RI04.png
+![img.png](img.png)Images/04RI04.png
 ~~~~~~~~
 Ejemplo de ejecución:
 
@@ -284,5 +284,6 @@ Ejemplo de ejecución:
 2
 ~~~~~~~~
 
-Images/04RI05.png
+![img_1.png](img_1.png)Images/04RI05.png
+
 Observe que el número de líneas es igual al número de columnas.
