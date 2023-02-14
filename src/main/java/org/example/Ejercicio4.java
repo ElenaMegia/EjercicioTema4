@@ -31,4 +31,5 @@ public class Ejercicio4 {
         //mostrar mensaje de felicitación
         System.out.println("¡Enhorabuena! Has acertado el número");
     }
+
 }
