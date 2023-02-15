@@ -1,0 +1,55 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+class Main {
+void main()
+}
+
+class Menu {
+ switchoptions()
+ Menu(int option)
+}
+
+class Ejercicio1 {
+ Media()
+}
+
+class Ejercicio4 {
+  adivinarnumero()
+}
+
+class Ejercicio5 {
+  NumeroAleatorio()
+}
+
+class Ejercicio6 {
+  Capitales()
+}
+
+class Ejercicio7 {
+  mostrarCita(int option)
+  Ejercicio7menu()
+}
+
+class Ejercicio9 {
+  Multiplo()
+}
+
+class Ejercicio10 {
+  Figuras()
+}
+
+exception OutOfRangeException{
+    +OutOfRangeException (String message)
+}
+
+Ejercicio7 --> Menu
+Ejercicio1 --> Menu
+Ejercicio4 --> Menu
+Ejercicio5 --> Menu
+Ejercicio6 --> Menu
+Ejercicio9 --> Menu
+Ejercicio10 --> Menu
+Menu --> Main
+OutOfRangeException .. Menu
+@enduml
