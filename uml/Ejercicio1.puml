@@ -1,0 +1,13 @@
+@startuml
+'https://plantuml.com/activity-diagram-beta
+
+start
+:Introducir: Numero de Valores;
+repeat
+    :Introducir Nota;
+    :i++;
+repeat while (Numero de Valores == i )
+    :Calcular Media;
+stop
+
+@enduml
