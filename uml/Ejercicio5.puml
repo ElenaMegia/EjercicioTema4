@@ -1,0 +1,21 @@
+@startuml
+'https://plantuml.com/activity-diagram-beta
+
+start
+:Elegir un numero del 1 al 100;
+:Presionar una tecla;
+while (respuesta!= '=')
+    :contador++ e introducir respuesta;
+    if(respuesta) then (-)
+        :pequeño = numero;
+    else(+)
+        :grande = numero;
+  endif
+:crear numero aleatorio entre pequeño y grande;
+
+endwhile
+
+: Numero encontrado;
+stop
+
+@enduml

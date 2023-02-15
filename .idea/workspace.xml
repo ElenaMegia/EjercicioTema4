@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5244a22-477c-4f31-a9ca-95d5a73f9a4d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/uml/Ejercicio4.puml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uml/Ejercicio5.puml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uml/Ejercicio1.puml" beforeDir="false" afterPath="$PROJECT_DIR$/uml/Ejercicio1.puml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +69,7 @@
       <updated>1676368737410</updated>
       <workItem from="1676368738786" duration="165000" />
       <workItem from="1676399404385" duration="1581000" />
-      <workItem from="1676454166741" duration="4284000" />
+      <workItem from="1676454166741" duration="5188000" />
     </task>
     <task id="LOCAL-00001" summary="Readme creado">
       <created>1676399859436</created>
@@ -142,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676457285343</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Diagrama de flujo ejercicio4">
+      <created>1676458463166</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1676458463166</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,6 +165,7 @@
     <MESSAGE value="Main y menu terminados falta umls" />
     <MESSAGE value="uml terminado" />
     <MESSAGE value="Diagrama de flujo ejercicio1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Diagrama de flujo ejercicio1" />
+    <MESSAGE value="Diagrama de flujo ejercicio4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Diagrama de flujo ejercicio4" />
   </component>
 </project>
