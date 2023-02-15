@@ -1,0 +1,14 @@
+@startuml
+'https://plantuml.com/activity-diagram-beta
+
+start
+: Escribir un numero multiplo de 3;
+
+while (numeroUsuario % 3 != 0) is (no)
+  :Introducir numero multiplo de 3;
+endwhile
+
+:El numero introducido es multiplo de 3;
+stop
+
+@enduml
