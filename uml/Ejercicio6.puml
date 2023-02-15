@@ -1,0 +1,16 @@
+@startuml
+'https://plantuml.com/activity-diagram-beta
+start
+:Introducir la capital de Francia;
+while (respuesta!= 'Paris') is (no)
+    :respuesta incorrecta;
+    :Intentos ++;
+endwhile
+if(numIntentos<MAX_INTENTOS) then (si)
+        :Has acertado la capital de Francia;
+    else(no)
+        :Superado el numero de intentos permitidos;
+  endif
+
+stop
+@enduml
