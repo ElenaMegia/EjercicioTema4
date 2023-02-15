@@ -10,4 +10,5 @@ repeat while (Numero de Valores == i )
     :Calcular Media;
 stop
 
+
 @enduml

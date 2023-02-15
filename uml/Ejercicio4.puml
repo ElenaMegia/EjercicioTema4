@@ -1,0 +1,19 @@
+@startuml
+'https://plantuml.com/activity-diagram-beta
+
+start
+:Introducir Numero;
+
+while (numeroUsuario != numeroAleatorio)
+  if (numeroUsuario < numeroAleatorio) then (si)
+    :El numero introducido es mayor;
+  else (no)
+    :El numero introducido es menor;
+  endif
+endwhile
+
+:Has acertado el numero;
+
+stop
+
+@enduml
