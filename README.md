@@ -284,6 +284,6 @@ Ejemplo de ejecución:
 2
 ~~~~~~~~
 
-![img_1.png](img_1.png)Images/04RI05.png
+![img_1.png](img_1.png)
 
 Observe que el número de líneas es igual al número de columnas.
