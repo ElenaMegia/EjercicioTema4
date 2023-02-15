@@ -10,7 +10,7 @@ public class Ejercicio6 {
     //Crea una constante que se llame MAX_INTENTOS y que tenga el valor 5
     static final int MAX_INTENTOS = 5;
     static Scanner sc = new Scanner(System.in);
-    public static void main(String[] args) {
+    public static void Capitales() {
         //declarar variables
         String capitalFrancia;
         String valorIntroducido;

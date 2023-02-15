@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Ejercicio9 {
     static Scanner sc = new Scanner(System.in);
 
-    public static void main(String[] args) {
+    public static void Multiplo() {
         //declarar variables
         int numeroUsuario;
         //pedir al usuario que introduzca un número

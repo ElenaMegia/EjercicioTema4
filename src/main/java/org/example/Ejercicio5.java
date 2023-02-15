@@ -4,7 +4,7 @@ import java.io.IOException;
 
 public class Ejercicio5 {
     static java.util.Scanner sc = new java.util.Scanner(System.in);
-    public static void main(String[] args) throws IOException {
+    public static void NumeroAleatorio() throws IOException {
         int numeroAleatorio;
         int contador = 0;
         char respuesta;

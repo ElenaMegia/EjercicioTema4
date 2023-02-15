@@ -6,7 +6,7 @@ public class Ejercicio4 {
     static Scanner sc = new Scanner(System.in);
 
     //Su algoritmo debe generar un número entero aleatorio entre 1 y 100. El usuario tiene que encontrar este número. Con cada intento del usuario, se le debe indicar si el número es mayor, menor o igual al valor introducido. El programa finaliza cuando el usuario ha encontrado el número.
-    public static void main(String[] args) {
+    public static void adivinarnumero() {
         //declarar variables
         int numeroAleatorio;
         int numeroUsuario;
