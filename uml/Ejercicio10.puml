@@ -1,0 +1,23 @@
+@startuml
+'https://plantuml.com/activity-diagram-beta
+
+start
+:¿Anchura?;
+:introducir anchura;
+:¿Altura?;
+:introducir altura;
+:¿Carácter?;
+:introducir carácter;
+
+repeat
+    :i++;
+    repeat
+        :j++;
+    :Imprimir caracter;
+    repeat while (anchura == j )
+repeat while (altura == i )
+
+
+stop
+
+@enduml
